@@ -1,2 +1,2 @@
-# schockr.github.io
+# Robert Schock
 Personal/Professional Website
