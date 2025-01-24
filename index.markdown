@@ -17,4 +17,4 @@ You can contact me at robertnschock@gmail.com
 
 ## Work
 
-I am interested in methodologies to automate the validation and qualification of MES platforms and recipes. My work has focused on developer tooling, data management, and system integrations in a distributed environment to streamline complex life sciences manufacturing processes through technology.
+I am interested in methodologies to automate the validation and qualification of MES platforms and recipes. My work has focused on developer tooling, data management, and system integrations in a distributed environment to streamline complex manufacturing processes through digital solutions.
