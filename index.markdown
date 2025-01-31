@@ -5,6 +5,8 @@
 layout: home
 ---
 
+## [Blog](./blog/)
+
 <img src='assets/images/profile.jpg' style="float:left; width:45%; margin:15px;"/>
 
 ## About
