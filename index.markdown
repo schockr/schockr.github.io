@@ -5,8 +5,6 @@
 layout: home
 ---
 
-## [Blog](./blog/)
-
 <img src='assets/images/profile.jpg' style="float:left; width:45%; margin:15px;"/>
 
 ## About
@@ -20,3 +18,5 @@ You can contact me at robertnschock@gmail.com
 ## Work
 
 I am interested in methodologies to automate the validation and qualification of MES platforms and recipes. My work has focused on developer tooling, data management, and system integrations in a distributed environment to streamline complex manufacturing processes through digital solutions.
+
+## [Blog](./blog/)
